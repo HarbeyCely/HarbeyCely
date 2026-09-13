@@ -2,7 +2,7 @@
 
 ### Ingeniero Civil en formación | Apasionado por las Estructuras, BIM y el Análisis de Datos 🏗️📊
 
-Soy estudiante de décimo semestre de Ingeniería Civil en la Universidad Industrial de Santander (UIS), con visión para integrar el diseño estructural tradicional con las nuevas tecnologías de análisis y automatización. Me entusiasma optimizar flujos de trabajo y encontrar soluciones innovadoras en la construcción.
+Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Industrial de Santander (UIS)** <img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/uis/uis.png](https://web.uis.edu.co/wp-content/uploads/elementor/thumbs/Logo-UIS-web-qbqj494k91py9kvbai0ukya46twhbb1tj22br6je4k.webp)" height="24" style="vertical-align: middle;" /> con visión para integrar el diseño estructural tradicional con las nuevas tecnologías de análisis y automatización. Me entusiasma optimizar flujos de trabajo y encontrar soluciones innovadoras en la construcción.
 
 ## 🧩 Sobre mí 🚀
 - 🎓 Próximo a graduarme como Ingeniero Civil<!--(Marzo 2027)-->.
@@ -28,11 +28,6 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la Universidad Indust
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS_Project-31C530?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarbeyCely&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Harbey" />
-</div>
-
 ## 📫 Conecta conmigo
 Si quieres hablar sobre ingeniería estructural, automatización con Python, o simplemente compartir ideas:
 <p>
@@ -40,3 +35,8 @@ Si quieres hablar sobre ingeniería estructural, automatización con Python, o s
 <a href="https://instagram.com/harbeycely" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:hecm-09@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 </p>
+
+
+<div align="center">
+  <img src="URL_QUE_COPIASTE" width="200" alt="Mi imagen" />
+</div>
