@@ -1,16 +1,42 @@
-## Hi there 👋
+# ¡Hola! Soy Harbey Cely 👋😎
 
-<!--
-**HarbeyCely/HarbeyCely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero Civil en formación | Apasionado por las Estructuras, BIM y el Análisis de Datos 🏗️📊
 
-Here are some ideas to get you started:
+Soy estudiante de décimo semestre de Ingeniería Civil en la Universidad Industrial de Santander (UIS), con visión para integrar el diseño estructural tradicional con las nuevas tecnologías de análisis y automatización. Me entusiasma optimizar flujos de trabajo y encontrar soluciones innovadoras en la construcción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Sobre mí 🚀
+- 🎓 Próximo a graduarme como Ingeniero Civil<!--(Marzo 2027)-->.
+- 🔬 Actualmente investigando sobre concreto autocompactante con nanosílice y poliglicerol.
+- 🌱 <!--En proceso de certificación en **GitHub Foundations** y -->Perfeccionando mis habilidades en metodologías BIM.
+- 🥋 Cuando no estoy calculando estructuras o escribiendo código, me encuentras entrenando karate, explorando la naturaleza o informandome sobre nuevos hallazgos científicos.
+
+## 🛠️ Stack Tecnológico y Herramientas
+
+**Ingeniería y Diseño BIM**
+![Revit](https://img.shields.io/badge/Revit-176BFF?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![ETABS](https://img.shields.io/badge/ETABS-00008B?style=for-the-badge&logo=c&logoColor=white) 
+![SAP2000](https://img.shields.io/badge/SAP2000-3A6989?style=for-the-badge&logo=c&logoColor=white)
+
+**Análisis de Datos y Programación**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Otras Herramientas**
+<!--![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)-->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-31C530?style=for-the-badge&logo=microsoft&logoColor=white)
+
+## 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarbeyCely&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Harbey" />
+</div>
+
+## 📫 Conecta conmigo
+Si quieres hablar sobre ingeniería estructural, automatización con Python, o simplemente compartir ideas:
+<p>
+<a href="https://linkedin.com/in/harbey-emir-cely-mendoza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/harbeycely" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:hecm-09@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
+</p>
