@@ -24,9 +24,9 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Otras Herramientas**
-<!--![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS_Project-31C530?style=for-the-badge&logo=microsoft&logoColor=white)
+<!--![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)-->
 
 ## 📫 Conecta conmigo
 Si quieres hablar sobre ingeniería estructural, automatización con Python, o simplemente compartir ideas:
