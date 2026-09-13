@@ -2,7 +2,7 @@
 
 ### Ingeniero Civil en formación | Apasionado por las Estructuras, BIM y el Análisis de Datos 🏗️📊
 
-Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Industrial de Santander (UIS)** <img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/uis/uis.png](https://web.uis.edu.co/wp-content/uploads/elementor/thumbs/Logo-UIS-web-qbqj494k91py9kvbai0ukya46twhbb1tj22br6je4k.webp)" height="24" style="vertical-align: middle;" /> con visión para integrar el diseño estructural tradicional con las nuevas tecnologías de análisis y automatización. Me entusiasma optimizar flujos de trabajo y encontrar soluciones innovadoras en la construcción.
+Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Industrial de Santander** <a href="https://uis.edu.co/"><img src="https://github.com/user-attachments/assets/70b9c99a-666f-4e4b-b587-69194d139b59" width="16" height="18" style="vertical-align: middle;" /><a/> con visión para integrar el diseño estructural tradicional con las nuevas tecnologías de análisis y automatización. Me entusiasma optimizar flujos de trabajo y encontrar soluciones innovadoras en la construcción.
 
 ## 🧩 Sobre mí 🚀
 - 🎓 Próximo a graduarme como Ingeniero Civil<!--(Marzo 2027)-->.
@@ -35,8 +35,3 @@ Si quieres hablar sobre ingeniería estructural, automatización con Python, o s
 <a href="https://instagram.com/harbeycely" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:hecm-09@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 </p>
-
-
-<div align="center">
-  <img src="URL_QUE_COPIASTE" width="200" alt="Mi imagen" />
-</div>
