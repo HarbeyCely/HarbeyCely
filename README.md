@@ -15,7 +15,7 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
   
 <table>
 <tr>
-<td width="90%" align="center">
+<td width="90%" align="left">
       
 ## 🛠️ Stack Tecnológico y Herramientas
 
