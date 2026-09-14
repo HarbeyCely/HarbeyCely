@@ -37,9 +37,9 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
 </td>
 
 <td width="20%" align="right">
-<!--<img src="https://media.giphy.com/media/r6pAV1YMao3ZEDe1G9/giphy.gif" alt="Cybertruck en Marte" width="200">-->
+<!--<img src="https://media.giphy.com/media/r6pAV1YMao3ZEDe1G9/giphy.gif" alt="Cybertruck en Marte" width="300">-->
 <!--<img src="https://media.giphy.com/media/217rzGkyGxqZoAheFM/giphy.gif" alt="City" width="350">-->
-<img src="https://i.makeagif.com/media/9-09-2018/kfboZd.gif" alt="Elon smoking" width="200">
+<img src="https://i.makeagif.com/media/9-09-2018/kfboZd.gif" alt="Elon smoking" width="350">
 </td>
 </tr>
 </table>
