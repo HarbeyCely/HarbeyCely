@@ -38,3 +38,5 @@ Si quieres hablar sobre ingeniería estructural, automatización con Python, o s
 <a href="https://instagram.com/harbeycely" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:hecm-09@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 </p>
+
+![Cybertruck en Marte](https://media.giphy.com/media/r6pAV1YMao3ZEDe1G9/giphy.gif)
