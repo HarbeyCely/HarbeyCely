@@ -12,7 +12,11 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
 - 🔬 Actualmente investigando sobre concreto autocompactante con nanosílice y poliglicerol.
 - 🌱 <!--En proceso de certificación en **GitHub Foundations** y -->Perfeccionando mis habilidades en metodologías BIM.
 - 🥋 Cuando no estoy calculando estructuras o escribiendo código, me encuentras entrenando karate, explorando la naturaleza o informandome sobre nuevos hallazgos científicos.
-
+  
+<table>
+<tr>
+<td width="80%">
+      
 ## 🛠️ Stack Tecnológico y Herramientas
 
 **Ingeniería y Diseño BIM**
@@ -30,6 +34,15 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS_Project-31C530?style=for-the-badge&logo=microsoft&logoColor=white)
 <!--![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)-->
+</td>
+
+<td width="20%" align="right">
+<!--<img src="https://media.giphy.com/media/r6pAV1YMao3ZEDe1G9/giphy.gif" alt="Cybertruck en Marte" width="200">-->
+<!--<img src="https://media.giphy.com/media/217rzGkyGxqZoAheFM/giphy.gif" alt="City" width="350">-->
+<img src="https://i.makeagif.com/media/9-09-2018/kfboZd.gif" alt="Elon smoking" width="200">
+</td>
+</tr>
+</table>
 
 ## 📫 Conecta conmigo
 Si quieres hablar sobre ingeniería estructural, automatización con Python, o simplemente compartir ideas:
@@ -39,4 +52,4 @@ Si quieres hablar sobre ingeniería estructural, automatización con Python, o s
 <a href="mailto:hecm-09@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"></a>
 </p>
 
-![Cybertruck en Marte](https://media.giphy.com/media/r6pAV1YMao3ZEDe1G9/giphy.gif)
+
