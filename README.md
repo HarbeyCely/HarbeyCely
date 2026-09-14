@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF6D00&center=true&vCenter=true&lines=Ingeniero+Civil;BIM+Management;Git+%7C+GitHub+%7C+Python;Enfoque+en+Ingenieria+Estructural"/>
 </p>
+
 Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Industrial de Santander** <a href="https://uis.edu.co/"><img src="https://github.com/user-attachments/assets/70b9c99a-666f-4e4b-b587-69194d139b59" width="16" height="18" style="vertical-align: middle;" /><a/> con visión para integrar el diseño estructural tradicional con las nuevas tecnologías de análisis y automatización. Me entusiasma optimizar flujos de trabajo y encontrar soluciones innovadoras en la construcción.
 
 ## 🧩 Sobre mí 🚀
