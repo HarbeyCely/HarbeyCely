@@ -20,10 +20,10 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
 ## 🛠️ Stack Tecnológico y Herramientas
 
 **Ingeniería y Diseño BIM**
-![Revit](https://img.shields.io/badge/Revit-176BFF?style=for-the-badge&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![ETABS](https://img.shields.io/badge/ETABS-00008B?style=for-the-badge&logo=c&logoColor=white) 
-![SAP2000](https://img.shields.io/badge/SAP2000-3A6989?style=for-the-badge&logo=c&logoColor=white)
+[![Revit](https://img.shields.io/badge/Revit-176BFF?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/latam/products/revit/overview)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/latam/products/autocad/overview)
+[![ETABS](https://img.shields.io/badge/ETABS-00008B?style=for-the-badge&logo=c&logoColor=white)](https://www.csiamerica.com/products/etabs)
+[![SAP2000](https://img.shields.io/badge/SAP2000-3A6989?style=for-the-badge&logo=c&logoColor=white)](https://www.csiamerica.com/products/sap2000)
 
 **Análisis de Datos y Programación**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
