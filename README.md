@@ -15,7 +15,7 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
   
 <table>
 <tr>
-<td width="80%">
+<td width="85%">
       
 ## 🛠️ Stack Tecnológico y Herramientas
 
@@ -36,10 +36,10 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
 <!--![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)-->
 </td>
 
-<td width="20%" align="right">
+<td width="15%" align="right">
 <!--<img src="https://media.giphy.com/media/r6pAV1YMao3ZEDe1G9/giphy.gif" alt="Cybertruck en Marte" width="300">-->
-<!--<img src="https://media.giphy.com/media/217rzGkyGxqZoAheFM/giphy.gif" alt="City" width="300">-->
-<img src="https://i.makeagif.com/media/9-09-2018/kfboZd.gif" alt="Elon smoking" width="300">
+<!--<img src="https://media.giphy.com/media/217rzGkyGxqZoAheFM/giphy.gif" alt="City" width="270">-->
+<img src="https://i.makeagif.com/media/9-09-2018/kfboZd.gif" alt="Elon smoking" width="270">
 </td>
 </tr>
 </table>
