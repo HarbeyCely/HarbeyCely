@@ -26,20 +26,20 @@ Soy estudiante de décimo semestre de Ingeniería Civil en la **Universidad Indu
 [![SAP2000](https://img.shields.io/badge/SAP2000-3A6989?style=for-the-badge&logo=c&logoColor=white)](https://www.csiamerica.com/products/sap2000)
 
 **Análisis de Datos y Programación**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/es-es/power-platform/products/power-bi)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-co/microsoft-365/excel)
 
 **Otras Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS_Project-31C530?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![MS Project](https://img.shields.io/badge/MS_Project-31C530?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/es-co/microsoft-365/project/project-management)
 <!--![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)-->
 </td>
 
 <td width="20%" align="right">
 <!--<img src="https://media.giphy.com/media/r6pAV1YMao3ZEDe1G9/giphy.gif" alt="Cybertruck en Marte" width="300">-->
-<!--<img src="https://media.giphy.com/media/217rzGkyGxqZoAheFM/giphy.gif" alt="City" width="350">-->
-<img src="https://i.makeagif.com/media/9-09-2018/kfboZd.gif" alt="Elon smoking" width="350">
+<!--<img src="https://media.giphy.com/media/217rzGkyGxqZoAheFM/giphy.gif" alt="City" width="300">-->
+<img src="https://i.makeagif.com/media/9-09-2018/kfboZd.gif" alt="Elon smoking" width="300">
 </td>
 </tr>
 </table>
